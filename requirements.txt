@@ -6,7 +6,6 @@ os
 io
 pulp
 numpy
-pymysql
 statsmodels
 scipy
 matplotlib
