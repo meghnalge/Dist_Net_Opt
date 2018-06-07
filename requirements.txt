@@ -1,15 +1,1 @@
 Flask==0.12.1
-
-pandas
-pymysql
-os
-io
-pulp
-numpy
-statsmodels
-scipy
-matplotlib
-LogisticRegression
-math
-collections
-sklearn
